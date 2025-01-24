@@ -69,5 +69,5 @@ TensorFlow Implementation of "A Neural Algorithm of Artistic Style" (https://www
 Very Deep Convolutional Networks For Large-Scale Image Recognition (https://arxiv.org/pdf/1409.1556)
  (Simonyan & Zisserman, 2015)
 
-Pretrained models
+Pretrained models (https://www.vlfeat.org/matconvnet/pretrained/)
  (MatConvNet)
